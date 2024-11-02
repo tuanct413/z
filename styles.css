@@ -36,12 +36,12 @@ body{
 }
 .sreach{
     text-align: end;
-    top:  20px;
+    top:  25px;
     position: absolute;
-    right: 91px;
+    right: 90px;
 }
 .sreach img{
-    height: 29px;
+    height: 25px;
     position: absolute;
     top:5px
 }
@@ -58,7 +58,9 @@ input{
 }
 
 .nav-conrainer .logo{
-    text-align: start;
+   display: flex;
+   justify-content: start;
+   
 }
 nav ul{
     list-style-type: none;
@@ -159,6 +161,7 @@ form{
     width: 25px;
     margin: 13px;
 }
+
 
 
 
